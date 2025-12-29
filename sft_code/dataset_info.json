@@ -1,0 +1,107 @@
+{
+    "limo_v2": {
+      "file_name": "/data/limo_s5_from_s20/limo-v2.jsonl",
+      "num_samples": 800,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_random": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_random.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_min_global": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_min_global.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_max_global": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_max_global.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_min_local": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_min_local.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_max_local": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_max_local.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_drop": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_drop.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_limo_s5_causal": {
+      "file_name": "/data/limo_s5_from_s20/limo_s5_causal.jsonl",
+      "num_samples": 4000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_acereason_s1_random": {
+      "file_name": "/data/acereason_s1_from_s4/acereason_s1_random.jsonl",
+      "num_samples": 10000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_acereason_s1_max_global": {
+      "file_name": "/data/acereason_s1_from_s4/acereason_s1_max_global.jsonl",
+      "num_samples": 10000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_acereason_s1_max_local": {
+      "file_name": "/data/acereason_s1_from_s4/acereason_s1_max_local.jsonl",
+      "num_samples": 10000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_acereason_s1_drop": {
+      "file_name": "/data/acereason_s1_from_s4/acereason_s1_drop.jsonl",
+      "num_samples": 10000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    },
+    "sft_qwen3_4b_base_acereason_s1_causal": {
+      "file_name": "/data/acereason_s1_from_s4/acereason_s1_causal.jsonl",
+      "num_samples": 10000,
+      "columns": {
+        "prompt": "input",
+        "response": "output"
+      }
+    }
+  }
+  
